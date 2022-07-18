@@ -4,19 +4,16 @@
     --label: #111;
 }
 
-#seletor {
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
- }
-
-* {
-    margin: 0;
-    box-sizing: border-box;
-    padding: 0;
 }
 
 body {

@@ -1,4 +1,4 @@
-# rocketseat-theme-switcher
+# Rocketseat-Theme-Switcher
 Acesse em: https://oyera1.github.io/rocketseat-theme-switcher/
 
 
